@@ -1,0 +1,7 @@
+C:\ElevenFifty\DotNetProjects\ConsoleGameAssignment\ConsoleGameAssignment\bin\Debug\ConsoleGameAssignment.exe.config
+C:\ElevenFifty\DotNetProjects\ConsoleGameAssignment\ConsoleGameAssignment\bin\Debug\ConsoleGameAssignment.exe
+C:\ElevenFifty\DotNetProjects\ConsoleGameAssignment\ConsoleGameAssignment\bin\Debug\ConsoleGameAssignment.pdb
+C:\ElevenFifty\DotNetProjects\ConsoleGameAssignment\ConsoleGameAssignment\obj\Debug\ConsoleGameAssignment.csprojAssemblyReference.cache
+C:\ElevenFifty\DotNetProjects\ConsoleGameAssignment\ConsoleGameAssignment\obj\Debug\ConsoleGameAssignment.csproj.CoreCompileInputs.cache
+C:\ElevenFifty\DotNetProjects\ConsoleGameAssignment\ConsoleGameAssignment\obj\Debug\ConsoleGameAssignment.exe
+C:\ElevenFifty\DotNetProjects\ConsoleGameAssignment\ConsoleGameAssignment\obj\Debug\ConsoleGameAssignment.pdb
